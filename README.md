@@ -3,6 +3,11 @@ This project will create a complex Nobel Prize Data Warehouse that consists of 8
 
 This was implemented through **Microsoft SQL Server Management Studio**, **Microsoft Visual Studio**, and **Tableau**. The SQL Server Management Studio built the Nobel Prize Data Warehouse and the views, while Visual Studio was used to extract data from the 8 CSV files and create the ETL process. Afterward, the data visualizations based on the processed data are made through Tableau and the SQL queries are made in SQL Server Management Studio. This project will be further explained in the upcoming sections
 
+### How to Implement Visual Studio Code of ETL Process
+1. Create a new `Integration Services Project` in Visual Studio
+2. Delete original `Package.dtsx` in SSIS Packages
+3. Replace the old package with the `Package.dtsx` in `Nobel-Prize-Data-Warehouse-Project/NobelPrize_DW_Project/code/Package.dtsx`
+
 ## Project Members
 - Marie Hasegawa (Project Manager/Leader, SQL Query, Tableau Visualizations)
 - Rosely Machado (BEAM Matrix, BEAM Modelstorming)
