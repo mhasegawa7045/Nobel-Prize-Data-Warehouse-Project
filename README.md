@@ -9,9 +9,9 @@ This was implemented through **Microsoft SQL Server Management Studio**, **Micro
 3. Replace the old package with the one in `Nobel-Prize-Data-Warehouse-Project/NobelPrize_DW_Project/code/Package.dtsx`
 
 ## Project Members
-- Marie Hasegawa (Project Manager/Leader, SQL Query, Tableau Visualizations)
-- Rosely Machado (BEAM Matrix, BEAM Modelstorming)
-- Jasmine Brown (Powerpoint)
+- Marie Hasegawa (Project Manager/Leader, SQL Queries, Visual Studio Code of ETL Process, Tableau Visualizations)
+- Rosely Machado (BEAM Matrix, BEAM Modelstorming, SQL Queries)
+- Jasmine Brown (BEAM Modelstorming, Powerpoint)
 
 ## Resources
 Kuzmenko, Maryna. (2016). Nobel Prize - Dataset with Information about Prizes, Laureates and Countries. Harvard Dataverse, V1, UNF:6:McdDh+ldUTGgZDs5XVOQUA==[fileUNF]. https://doi.org/10.7910/DVN/AGAFAQ
