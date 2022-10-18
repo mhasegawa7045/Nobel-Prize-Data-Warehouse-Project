@@ -1,0 +1,157 @@
+country_name,country_abrev,country_id
+"Alsace, then Germany",DE,C100
+Alsace,DE,C101
+Germany,DE,C102
+Argentina,AR,C103
+Australia,AU,C104
+Austria,AT,C105
+Belgium,BE,C106
+Burma,MM,C107
+Myanmar,MM,C108
+Canada,CA,C109
+Chile,CL,C110
+China,CN,C111
+Colombia,CO,C112
+Costa Rica,CR,C113
+Czechoslovakia,CZ,C114
+Democratic Republic of Vietnam,VN,C115
+Denmark,DK,C116
+East Timor,TL,C117
+Egypt,EG,C118
+Federal Republic of Germany,DE,C119
+Finland,FI,C120
+France,FR,C121
+Germany,DE,C122
+Ghana,GH,C123
+United Kingdom,UK,C124
+Greece,GR,C125
+Guatemala,GT,C126
+Hungary,HU,C127
+Iceland,IS,C128
+India,IN,C129
+Ireland,IE,C130
+Israel,IL,C131
+Italy,IT,C132
+Japan,JP,C133
+Mexico,MX,C134
+Nigeria,NG,C135
+South Korea,KR,C136
+Norway,NO,C137
+Pakistan,PK,C138
+Palestine,IL,C139
+Poland,PL,C140
+Portugal,PT,C141
+Russia,RU,C142
+Saint Lucia,LC,C143
+South Africa,ZA,C144
+Spain,ES,C145
+Austria-Hungary,HU,C146
+Sweden,SE,C147
+Switzerland,CH,C148
+the Netherlands,NL,C149
+Tibet,CN,C150
+Tunisia,TN,C151
+Union of South Africa,ZA,C152
+USA,US,C153
+USSR,RU,C154
+Yugoslavia,RS,C155
+Luxembourg,LU,C156
+Scotland,GB,C157
+Trinidad,TT,C158
+New Zealand,NZ,C159
+Bosnia,BA,C160
+Lithuania,LT,C161
+Taiwan,TW,C162
+Korea,KP,C163
+Faroe Islands,FO,C164
+"Java, Dutch East Indies (now Indonesia)",ID,C165
+Romania,RO,C166
+Venezuela,VE,C167
+"Sleswick, then Denmark",DK,C168
+Sleswick,DK,C169
+British India,IO,C170
+Yugoslavia (now Serbia),RS,C171
+Algeria,DZ,C172
+Guadeloupe Island,GP,C173
+Turkey,TR,C174
+Bulgaria,BG,C175
+Southern Rhodesia,,C176
+Iran,IR,C177
+Kenya,KE,C178
+"Poland, then Russian Empire",PL,C179
+Bangladesh,BD,C180
+Persia,IR,C181
+Persia (now Iran),IR,C182
+Mauritius,MU,C183
+Brazil,BR,C184
+Southern Rhodesia (now Zimbabwe),ZW,C185
+"Poland, Russian Empire",PL,C186
+Hungary (now Slovakia),SK,C187
+Prussia,PL,C188
+Prussia (now Poland),PL,C189
+Hesse-Kassel (now Germany),DE,C190
+Prussia (now Russia),RU,C191
+West Germany,DE,C192
+Schleswig (now Germany),DE,C193
+Schleswig,DE,C194
+East Germany,DE,C195
+Germany (now Poland),PL,C196
+Austria-Hungary (now Poland),PL,C197
+Northern Ireland,IE,C198
+Russian Empire (now Lithuania),LT,C199
+"Russia, Soviet Union",RU,C200
+Russian Empire (now Azerbaijan),AZ,C201
+Crete (now Greece),GR,C202
+Germany (now France),FR,C203
+Russian Empire,RU,C204
+India (now Pakistan),PK,C205
+German-occupied Poland,PL,C206
+USSR (now Belarus),BY,C207
+USSR (now Russia),RU,C208
+Czechoslovakia (now Czech Republic),CZ,C209
+Prussia (now Germany),DE,C210
+Bavaria (now Germany),DE,C211
+"Latvia, Russian Empire",LV,C212
+East Friesland (now Germany),DE,C213
+Austria-Hungary (now Slovenia),SI,C214
+Austrian Empire (now Austria),AT,C215
+Austria-Hungary (now Croatia),HR,C216
+Austria-Hungary (now Hungary),HU,C217
+Russian Empire (now Finland),FI,C218
+Ottoman Empire (now Turkey),TR,C219
+Hungarian Empire (now Czech Republic),CZ,C220
+Austria-Hungary (now Bosnia and Herzegovina),BA,C221
+British Protectorate of Palestine (now Israel),IL,C222
+Austria-Hungary (now Ukraine),UA,C223
+Russian Empire (now Ukraine),UA,C224
+Mecklenburg (now Germany),DE,C225
+Württemberg (now Germany),DE,C226
+Austria-Hungary (now Czech Republic),CZ,C227
+Jamaica,JM,C228
+Russian Empire (now Poland),PL,C229
+Germany (now Russia),RU,C230
+Tuscany (now Italy),IT,C231
+Poland (now Lithuania),LT,C232
+Madagascar,MG,C233
+Free City of Danzig (now Poland),PL,C234
+Austrian Empire (now Czech Republic),CZ,C235
+Austrian Empire (now Italy),IT,C236
+Gabon,GA,C237
+Northern Rhodesia (now Zambia),ZM,C238
+Vietnam,VN,C239
+Russian Empire (now Belarus),BY,C240
+Ottoman Empire (now Republic of Macedonia),MK,C241
+Burma (now Myanmar),MM,C242
+Poland (now Belarus),BY,C243
+British Mandate of Palestine (now Israel),IL,C244
+Korea (now South Korea),KR,C245
+Gold Coast (now Ghana),GH,C246
+British India (now Bangladesh),BD,C247
+Finland (now Russia),RU,C248
+British West Indies (now Saint Lucia),LC,C249
+Barbados,BB,C250
+Peru,PE,C251
+Cyprus,CY,C252
+Puerto Rico,PR,C253
+Liberia,LR,C254
+Yemen,YE,C255

@@ -1,0 +1,339 @@
+institution_id,institution_name,city,country_name,institution_type_id,institution_USD_value_in_millions,institution_member_count
+IN001,A.F. Ioffe Physico-Technical Institute,St. Petersburg,Russia,INT001,16.6,424
+IN002,École municipale de physique et de chimie industrielles (Municipal School of Industrial Physics and Chemistry),Paris,France,INT001,723.4,7744
+IN003,École Nationale Supérieur des Mines de Paris,Paris,France,INT002,40.3,399333
+IN004,École Normale Supérieure,Paris,France,INT004,51.7,234
+IN005,École Polytechnique,Paris,France,INT005,3.2,32
+IN006,École Supérieure de Physique et Chimie,Paris,France,INT006,1.9,6533
+IN007,Aarhus University,Aarhus,Denmark,INT002,500,66250
+IN008,Academy of Sciences,Moscow,USSR,INT003,221.2,29309
+IN009,All Souls College,Oxford,United Kingdom,INT001,3.3,437
+IN010,Amsterdam University,Amsterdam,the Netherlands,INT004,77.4,10255
+IN011,Argonne National Laboratory,"Argonne, IL",USA,INT005,428.6,56789
+IN012,Arizona State University,"Tempe, AZ",USA,INT006,22.3,2954
+IN013,Associated Universities Inc.,"Washington, DC",USA,INT003,7.32,969
+IN014,Atomic Energy Research Establishment,"Harwell, Berkshire",United Kingdom,INT004,7.564,1002
+IN015,Australian National University,Canberra,Australia,INT005,90,11925
+IN016,Australian National University,Weston Creek,Australia,INT001,4.6,609
+IN017,Basel Institute for Immunology,Basel,Switzerland,INT002,4.5,596
+IN018,Basel University,Basel,Switzerland,INT004,42.4,5618
+IN019,Bell Laboratories,"Holmdel, NJ",USA,INT005,323.5,42863
+IN020,Bell Laboratories,"Murray Hill, NJ",USA,INT006,210.4,27878
+IN021,Bell Telephone Laboratories,"Murray Hill, NJ",USA,INT003,32.3,4279
+IN022,Bell Telephone Laboratories,"New York, NY",USA,INT001,22.3,2954
+IN023,Berlin University,Berlin,Germany,INT002,5576.3,738859
+IN024,Berne University,Berne,Switzerland,INT003,95.4,12640
+IN025,Biozentrum der Universität,Basel,Switzerland,INT001,33.4,4425
+IN026,Birmingham University,Birmingham,United Kingdom,INT002,18.4,2438
+IN027,Boston University Medical School,"Massachusetts, MA",USA,INT003,22.6,2994
+IN028,Brigham and Women's Hospital,"Boston, MA",USA,INT004,99.45,13177
+IN029,Bristol University,Bristol,United Kingdom,INT005,100.4,13303
+IN030,Brown University,"Providence, RI",USA,INT006,3.3,437
+IN031,Brussels University,Brussels,Belgium,INT001,77.4,10255
+IN032,Bureau International des Poids et Mesures (International Bureau of Weights and Measures),Sèvres,France,INT002,428.6,56789
+IN033,Calcutta University,Calcutta,India,INT003,22.3,2954
+IN034,California Institute of Technology (Caltech),"Pasadena, CA",USA,INT004,7.32,969
+IN035,Cardiff University,Cardiff,United Kingdom,INT001,7.564,1002
+IN036,Carnegie Institute of Technology,"Pittsburgh, PA",USA,INT004,90,11925
+IN037,Carnegie Institution of Washington,"Long Island, New York, NY",USA,INT005,4.6,609
+IN038,Carnegie Mellon University,"Pittsburgh, PA",USA,INT006,4.5,596
+IN039,Center for Study of Public Choice,"Fairfax, VA",USA,INT003,42.4,5618
+IN040,"Central Research Laboratories, EMI",London,United Kingdom,INT001,323.5,42863
+IN041,CERN,Geneva,Switzerland,INT002,210.4,27878
+IN042,China Academy of Traditional Chinese Medicine,Beijing,China,INT003,32.3,4279
+IN043,Chinese University of Hong Kong,Hong Kong,China,INT001,22.3,2954
+IN044,City University of New York,"New York, NY",USA,INT002,5576.3,738859
+IN045,Clare Hall Laboratory,Hertfordshire,United Kingdom,INT003,95.4,12640
+IN046,Cold Spring Harbor Laboratory,"Cold Spring Harbor, NY",USA,INT004,33.4,4425
+IN047,Collège de France,Paris,France,INT001,3.3,437
+IN048,Cologne University,Cologne,Federal Republic of Germany,INT002,77.4,10255
+IN049,Columbia University,"New York, NY",USA,INT003,428.6,56789
+IN050,"Columbia University Division, Cardio-Pulmonary Laboratory, Bellevue Hospital","New York, NY",USA,INT004,22.3,2954
+IN051,Copenhagen University,Copenhagen,Denmark,INT005,7.32,969
+IN052,Cornell University,"Ithaca, NY",USA,INT006,7.564,1002
+IN053,Department of Scientific and Industrial Research,London,United Kingdom,INT005,90,11925
+IN054,"Digital Pathways, Inc.","Mountain View, CA",USA,INT005,4.6,609
+IN055,Drew University,"Madison, NJ",USA,INT006,4.5,596
+IN056,Du Pont,"Wilmington, DE",USA,INT005,42.4,5618
+IN057,Duke University Medical Center,"Durham, NC",USA,INT006,323.5,42863
+IN058,Duke University School of Medicine,"Durham, NC",USA,INT001,210.4,27878
+IN059,Edinburgh University,Edinburgh,United Kingdom,INT002,32.3,4279
+IN060,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Zurich,Switzerland,INT003,3.3,437
+IN061,"Enrico Fermi Institute, University of Chicago","Chicago, IL",USA,INT004,77.4,10255
+IN062,Federal Reserve Bank of Minneapolis,"Minneapolis, MN",USA,INT001,428.6,56789
+IN063,Fermi National Accelerator Laboratory,"Batavia, IL",USA,INT002,22.3,2954
+IN064,Finsen Medical Light Institute,Copenhagen,Denmark,INT004,7.32,969
+IN065,Forschungszentrum J&uuml;lich,J&uuml;lich,Germany,INT005,7.564,1002
+IN066,Francis Crick Institute,Hertfordshire,United Kingdom,INT006,90,11925
+IN067,Frankfurt-on-the-Main University,Frankfurt-on-the-Main,Germany,INT004,4.6,609
+IN068,Fred Hutchinson Cancer Research Center,"Seattle, WA",USA,INT001,4.5,596
+IN069,Fritz-Haber-Institut der Max-Planck-Gesellschaft,Berlin,Federal Republic of Germany,INT004,42.4,5618
+IN070,Fritz-Haber-Institut der Max-Planck-Gesellschaft,Berlin,Germany,INT005,323.5,42863
+IN071,Göteborg University,Gothenburg,Sweden,INT006,210.4,27878
+IN072,General Electric Company,"Schenectady, NY",USA,INT001,32.3,4279
+IN073,George Mason University,"Fairfax, VA",USA,INT002,22.3,2954
+IN074,German Cancer Research Center,Heidelberg,Germany,INT003,5576.3,738859
+IN075,Ghent University,Ghent,Belgium,INT005,3.3,437
+IN076,Gladstone Institutes,"San Francisco, CA",USA,INT006,77.4,10255
+IN077,Glynn Research Laboratories,Bodmin,United Kingdom,INT002,428.6,56789
+IN078,Goettingen University,Göttingen,Germany,INT003,22.3,2954
+IN079,Graz University,Graz,Austria,INT001,7.32,969
+IN080,Greifswald University,Greifswald,Germany,INT004,7.564,1002
+IN081,Groningen University,Groningen,the Netherlands,INT005,90,11925
+IN082,Gurdon Institute,Cambridge,United Kingdom,INT006,4.6,609
+IN083,Halle University,Halle,Germany,INT003,4.5,596
+IN084,Harvard Business School,"Boston, MA",USA,INT004,42.4,5618
+IN085,Harvard Medical School,"Boston, MA",USA,INT005,323.5,42863
+IN086,Harvard University,"Cambridge, MA",USA,INT005,210.4,27878
+IN087,"Harvard University, Biological Laboratories","Cambridge, MA",USA,INT006,32.3,4279
+IN088,"Harvard University, Lyman Laboratory","Cambridge, MA",USA,INT002,3.3,437
+IN089,High Energy Accelerator Research Organization (KEK),Tsukuba,Japan,INT003,77.4,10255
+IN090,Hokkaido University,Sapporo,Japan,INT001,428.6,56789
+IN091,Howard Hughes Medical Institute,NULL,NULL,INT004,22.3,2954
+IN092,Howard Hughes Medical Institute,"Durham, NC",USA,INT005,7.32,969
+IN093,I.G. Farbenindustrie A.G.,Heidelberg,Germany,INT006,7.564,1002
+IN094,I.G. Farbenindustrie A.G.,Mannheim-Rheinau,Germany,INT003,90,11925
+IN095,IBM Thomas J. Watson Research Center,"Yorktown Heights, NY",USA,INT004,3.3,437
+IN096,IBM Zurich Research Laboratory,Rüschlikon,Switzerland,INT005,77.4,10255
+IN097,Imperial Cancer Research Fund,London,United Kingdom,INT001,428.6,56789
+IN098,Imperial Cancer Research Fund Laboratory,London,United Kingdom,INT002,22.3,2954
+IN099,Imperial College,London,United Kingdom,INT005,7.32,969
+IN100,Indiana University,"Bloomington, IN",USA,INT006,7.564,1002
+IN101,Innsbruck University,Innsbruck,Austria,INT002,90,11925
+IN102,Institut du Radium,Paris,France,INT003,4.6,609
+IN103,Institut Français du Pétrole,Rueil-Malmaison,France,INT001,4.5,596
+IN104,Institut Pasteur,Paris,France,INT004,42.4,5618
+IN105,Institut Pasteur,Tunis,NULL,INT005,323.5,42863
+IN106,Institute for Advanced Study,"Princeton, NJ",USA,INT006,210.4,27878
+IN107,Institute for Biochemical Research,Buenos Aires,Argentina,INT003,32.3,4279
+IN108,Institute for Chemical Physics of the Academy of Sciences of the USSR,Moscow,USSR,INT004,22.3,2954
+IN109,Institute for Infectious Diseases,Berlin,Germany,INT005,3.3,437
+IN110,Institute of Cell Biology of the C.N.R.,Rome,Italy,INT005,77.4,10255
+IN111,Institute of Physical Chemistry,Cambridge,United Kingdom,INT006,428.6,56789
+IN112,Institute of Technology,Milan,Italy,INT002,22.3,2954
+IN113,Instituto de Biologia y Medicina Experimental (Institute for Biology and Experimental Medicine),Buenos Aires,Argentina,INT003,7.32,969
+IN114,International Centre for Theoretical Physics,Trieste,Italy,INT001,7.564,1002
+IN115,Istituto Superiore di Sanità (Chief Institute of Public Health),Rome,Italy,INT004,90,11925
+IN116,Jackson Laboratory,"Bar Harbor, ME",USA,INT005,4.6,609
+IN117,"Janelia Research Campus, Howard Hughes Medical Institute","Ashburn, VA",USA,INT006,4.5,596
+IN118,Johns Hopkins University,"Baltimore, MD",USA,INT003,42.4,5618
+IN119,Johns Hopkins University School of Medicine,"Baltimore, MD",USA,INT004,323.5,42863
+IN120,Königliches Institut für experimentelle Therapie (Royal Institute for Experimental Therapy),Frankfurt-on-the-Main,Germany,INT005,210.4,27878
+IN121,Kaiser-Wilhelm-Institut (now Fritz-Haber-Institut) für physikalische Chemie und Electrochemie,Berlin-Dahlem,Germany,INT001,32.3,4279
+IN122,Kaiser-Wilhelm-Institut (now Max-Planck Institut) für Chemie,Berlin-Dahlem,Germany,INT002,22.3,2954
+IN123,Kaiser-Wilhelm-Institut (now Max-Planck Institut) für Medizinische Forschung,Heidelberg,Germany,INT004,3.3,437
+IN124,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Biochemie,Berlin-Dahlem,Germany,INT005,77.4,10255
+IN125,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Biologie,Berlin-Dahlem,Germany,INT006,428.6,56789
+IN126,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Physik,Berlin,Germany,INT003,22.3,2954
+IN127,Karolinska Institutet,Stockholm,Sweden,INT005,7.32,969
+IN128,"Karolinska Institutet, Nobel Medical Institute",Stockholm,Sweden,INT006,7.564,1002
+IN129,Kiel University,Kiel,Federal Republic of Germany,INT002,90,11925
+IN130,Kiel University,Kiel,Germany,INT003,4.6,609
+IN131,Kitasato University,Tokyo,Japan,INT001,4.5,596
+IN132,"Konrad-Lorenz-Institut der Österreichischen Akademie der Wissen­schaften, Forschungsstelle für Ethologie",Altenberg; Grünau im Almtal,Austria,INT004,42.4,5618
+IN133,Kyoto Imperial University,Kyoto,Japan,INT005,323.5,42863
+IN134,Kyoto Sangyo University,Kyoto,Japan,INT006,210.4,27878
+IN135,Kyoto University,Kyoto,Japan,INT003,32.3,4279
+IN136,"Laboratories of the Division of Medicine and Public Health, Rockefeller Foundation","New York, NY",USA,INT004,22.3,2954
+IN137,Laboratorium der Farben-Fabriken J.R. Geigy A.G. (Laboratory of the J.R. Geigy Dye-Factory Co.),Basel,Switzerland,INT005,3.3,437
+IN138,Landwirtschaftliche Hochschule (Agricultural College),Berlin,Germany,INT001,77.4,10255
+IN139,Lawrence Berkeley National Laboratory,"Berkeley, CA",USA,INT002,428.6,56789
+IN140,Leiden University,Leiden,the Netherlands,INT004,22.3,2954
+IN141,Leipzig University,Leipzig,Germany,INT005,7.32,969
+IN142,Liverpool University,Liverpool,United Kingdom,INT006,7.564,1002
+IN143,London School of Economics and Political Science,London,United Kingdom,INT003,90,11925
+IN144,London University,London,United Kingdom,INT001,4.6,609
+IN145,"London University, King's College Hospital Medical School",London,United Kingdom,INT002,4.5,596
+IN146,Long Term Capital Management,"Greenwich, CT",USA,INT003,42.4,5618
+IN147,Ludwig-Maximilians- Universität,Munich,Germany,INT001,323.5,42863
+IN148,Madrid University,Madrid,Spain,INT002,210.4,27878
+IN149,Mainz University,Mainz,Federal Republic of Germany,INT003,32.3,4279
+IN150,Marburg University,Marburg,Germany,INT004,22.3,2954
+IN151,Marconi Wireless Telegraph Co. Ltd.,London,United Kingdom,INT005,3.3,437
+IN152,Marine Biological Laboratory (MBL),"Woods Hole, MA",USA,INT006,77.4,10255
+IN153,Massachusetts General Hospital,"Boston, MA",USA,INT001,428.6,56789
+IN154,Massachusetts Institute of Technology (MIT),"Cambridge, MA",USA,INT002,22.3,2954
+IN155,"Massachusetts Institute of Technology (MIT), Center for Cancer Research","Cambridge, MA",USA,INT004,7.32,969
+IN156,Max Planck Institute for Biophysical Chemistry,Göttingen,Germany,INT005,7.564,1002
+IN157,Max-Planck-Institut für Biochemie,Martinsried,Federal Republic of Germany,INT006,90,11925
+IN158,Max-Planck-Institut für Biophysik,Frankfurt-on-the-Main,Federal Republic of Germany,INT003,4.6,609
+IN159,Max-Planck-Institut für Biophysikalische Chemie,Göttingen,Federal Republic of Germany,INT004,4.5,596
+IN160,Max-Planck-Institut für Chemie,Mainz,Federal Republic of Germany,INT005,42.4,5618
+IN161,Max-Planck-Institut für Entwicklungsbiologie,Tübingen,Federal Republic of Germany,INT001,323.5,42863
+IN162,Max-Planck-Institut für Festkörperforschung,Stuttgart,Federal Republic of Germany,INT002,210.4,27878
+IN163,Max-Planck-Institut für Kohlenforschung (Max-Planck-Institute for Carbon Research),Mülheim/Ruhr,Federal Republic of Germany,INT004,32.3,4279
+IN164,Max-Planck-Institut für medizinische Forschung,Heidelberg,Federal Republic of Germany,INT005,22.3,2954
+IN165,Max-Planck-Institut für Physikalische Chemie,Göttingen,Federal Republic of Germany,INT006,5576.3,738859
+IN166,Max-Planck-Institut für Quantenoptik,Garching,Germany,INT003,3.3,437
+IN167,Max-Planck-Institut für Zellchemie,Munich,Federal Republic of Germany,INT005,77.4,10255
+IN168,Mayo Clinic,"Rochester, MN",USA,INT006,428.6,56789
+IN169,McMaster University,"Hamilton, Ontario",Canada,INT002,22.3,2954
+IN170,Meijo University,Nagoya,Japan,INT003,3.3,437
+IN171,Military Medical Academy,St. Petersburg,Russia,INT001,3.3,437
+IN172,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,INT004,77.4,10255
+IN173,Munich University,Munich,Germany,INT005,428.6,56789
+IN174,Munster University,Munster,Germany,INT006,22.3,2954
+IN175,Nagoya University,Nagoya,Japan,INT003,7.32,969
+IN176,Nancy University,Nancy,France,INT004,3.3,437
+IN177,NASA Goddard Space Flight Center,"Greenbelt, MD",USA,INT005,77.4,10255
+IN178,National Institute for Medical Research,London,United Kingdom,INT001,428.6,56789
+IN179,National Institute of Environmental Health Sciences,"Research Triangle Park, NC",USA,INT002,22.3,2954
+IN180,National Institute of Standards and Technology,"Boulder, CO",USA,INT004,7.32,969
+IN181,National Institute of Standards and Technology,"Gaithersburg, MD",USA,INT005,7.564,1002
+IN182,National Institutes of Health,"Bethesda, MD",USA,INT006,90,11925
+IN183,National Research Council of Canada,Ottawa,Canada,INT003,4.6,609
+IN184,Neurological Institute,Lisbon,Portugal,INT001,4.5,596
+IN185,New England Biolabs,"Beverly, MA",USA,INT002,42.4,5618
+IN186,New York University,"New York, NY",USA,INT003,323.5,42863
+IN187,"New York University, College of Medicine","New York, NY",USA,INT001,210.4,27878
+IN188,"NHMRC Helicobacter pylori Research Laboratory, QEII Medical Centre",Nedlands,Australia,INT002,32.3,4279
+IN189,Niels Bohr Institute,Copenhagen,Denmark,INT003,22.3,2954
+IN190,Nordita,Copenhagen,Denmark,INT004,3.3,437
+IN191,Northwestern University,"Evanston, IL",USA,INT005,77.4,10255
+IN192,Norwegian University of Science and Technology (NTNU),Trondheim,Norway,INT006,428.6,56789
+IN193,P.N. Lebedev Physical Institute,Moscow,Russia,INT002,22.3,2954
+IN194,P.N. Lebedev Physical Institute,Moscow,USSR,INT003,7.32,969
+IN195,Pavia University,Pavia,Italy,INT001,7.564,1002
+IN196,Peter Brent Brigham Hospital,"Boston, MA",USA,INT004,90,11925
+IN197,Polarographic Institute of the Czechoslovak Academy of Science,Prague,Czechoslovakia,INT005,4.6,609
+IN198,Polytechnic Institute,Copenhagen,Denmark,INT006,4.5,596
+IN199,Princeton University,"Princeton, NJ",USA,INT003,3.3,437
+IN200,Purdue University,"West Lafayette, IN",USA,INT004,77.4,10255
+IN201,Queen's University,Kingston,Canada,INT005,323.5,42863
+IN202,"Regulation of Retroviral Infections Unit, Virology Department, Institut Pasteur",Paris,France,INT005,210.4,27878
+IN203,"Research Division of Infectious Diseases, Children's Medical Center","Boston, MA",USA,INT006,32.3,4279
+IN204,Rheinische Friedrich-Wilhelms-Universität,Bonn,Federal Republic of Germany,INT002,22.3,2954
+IN205,Rice University,"Houston, TX",USA,INT003,5576.3,738859
+IN206,Rockefeller Institute for Medical Research,"New York, NY",USA,INT001,3.3,437
+IN207,Rockefeller Institute for Medical Research,"Princeton, NJ",USA,INT004,77.4,10255
+IN208,Rockefeller University,"New York, NY",USA,INT005,428.6,56789
+IN209,Rome University,Rome,Italy,INT006,22.3,2954
+IN210,Rowett Research Institute,Bucksburn (Scotland),United Kingdom,INT003,3.3,437
+IN211,Royal Institute of Technology,Stockholm,Sweden,INT004,3.3,437
+IN212,Royal Institution of Great Britain,London,United Kingdom,INT005,77.4,10255
+IN213,Rutgers University,"New Brunswick, NJ",USA,INT001,428.6,56789
+IN214,Saint Louis University,"St. Louis, MO",USA,INT002,22.3,2954
+IN215,"Semiconductor Laboratory of Beckman Instruments, Inc.","Mountain View, CA",USA,INT004,7.32,969
+IN216,Sheffield University,Sheffield,United Kingdom,INT005,3.3,437
+IN217,Shimadzu Corp.,Kyoto,Japan,INT006,77.4,10255
+IN218,Sorbonne University,Paris,France,INT003,428.6,56789
+IN219,"Sorbonne University, Institut Henri Poincaré",Paris,France,INT005,22.3,2954
+IN220,Space Telescope Science Institute,"Baltimore, MD",USA,INT006,7.32,969
+IN221,St. Jude Children's Research Hospital,"Memphis, TN",USA,INT002,7.564,1002
+IN222,"Staatliches Institut für makromolekulare Chemie (State Research Institute for Macromolecular Chemistry), Freiburg",Breisgau,Federal Republic of Germany,INT003,90,11925
+IN223,Standard Telecommunication Laboratories,Harlow,United Kingdom,INT001,4.6,609
+IN224,Stanford Linear Accelerator Center,"Stanford, CA",USA,INT004,4.5,596
+IN225,Stanford University,"Stanford, CA",USA,INT005,42.4,5618
+IN226,Stanford University School of Medicine,"Stanford, CA",USA,INT006,323.5,42863
+IN227,Stockholm School of Economics,Stockholm,Sweden,INT003,210.4,27878
+IN228,Stockholm University,Stockholm,Sweden,INT004,32.3,4279
+IN229,Strasbourg University,Strasbourg,"Alsace (then Germany, now France)",INT005,22.3,2954
+IN230,SUNY Health Science Center,"Brooklyn, NY",USA,INT001,3.3,437
+IN231,Swedish Gas-Accumulator Co.,Lidingö-Stockholm,Sweden,INT002,77.4,10255
+IN232,Szeged University,Szeged,Hungary,INT004,428.6,56789
+IN233,Technical University,Munich,Federal Republic of Germany,INT005,22.3,2954
+IN234,Technion - Israel Institute of Technology,Haifa,Israel,INT006,7.32,969
+IN235,Technische Hochschule (Institute of Technology),Munich,Germany,INT003,7.564,1002
+IN236,Texas Instruments,"Dallas, TX",USA,INT001,90,11925
+IN237,The Institute for Cancer Research,"Philadelphia, PA",USA,INT002,90,11925
+IN238,The Medical Foundation of Buffalo,"Buffalo, NY",USA,INT003,4.6,609
+IN239,The Molecular Sciences Institute,"Berkeley, CA",USA,INT001,4.5,596
+IN240,The Netherlands School of Economics,Rotterdam,the Netherlands,INT002,42.4,5618
+IN241,The Salk Institute,"San Diego, CA",USA,INT003,323.5,42863
+IN242,The Scripps Research Institute,"La Jolla, CA",USA,INT004,210.4,27878
+IN243,The Wellcome Research Laboratories,Beckenham,United Kingdom,INT005,32.3,4279
+IN244,The Wellcome Trust Sanger Institute,Cambridge,United Kingdom,INT006,22.3,2954
+IN245,Tokyo Institute of Technology,Tokyo,Japan,INT001,3.3,437
+IN246,Tokyo University of Education,Tokyo,Japan,INT002,77.4,10255
+IN247,Toulouse School of Economics (TSE),Toulouse,France,INT004,428.6,56789
+IN248,Toulouse University,Toulouse,France,INT005,22.3,2954
+IN249,Trinity College,Cambridge,United Kingdom,INT006,7.32,969
+IN250,Trinity College,Dublin,Ireland,INT003,7.564,1002
+IN251,Tufts University,"Medford, MA",USA,INT004,90,11925
+IN252,Unit&eacute; Mixte de Physique CNRS/THALES,Orsay,France,INT005,4.6,609
+IN253,Universit&eacute; Paris-Sud,Orsay,France,INT001,4.5,596
+IN254,Université Catholique de Louvain,Louvain,Belgium,INT002,42.4,5618
+IN255,"Université de Paris, Laboratoire Immuno-Hématologie",Paris,France,INT004,323.5,42863
+IN256,Université de Strasbourg,Strasbourg,France,INT005,210.4,27878
+IN257,Université Libre de Bruxelles,Brussels,Belgium,INT006,32.3,4279
+IN258,Université Louis Pasteur,Strasbourg,France,INT003,22.3,2954
+IN259,University College,Liverpool,United Kingdom,INT005,5576.3,738859
+IN260,University College,London,United Kingdom,INT006,3.3,437
+IN261,University of Bonn,Bonn,Federal Republic of Germany,INT002,77.4,10255
+IN262,University of British Columbia,Vancouver,Canada,INT003,428.6,56789
+IN263,University of California,"Berkeley, CA",USA,INT001,22.3,2954
+IN264,University of California,"Irvine, CA",USA,INT004,3.3,437
+IN265,University of California,"La Jolla, CA",USA,INT005,3.3,437
+IN266,University of California,"Los Angeles, CA",USA,INT006,77.4,10255
+IN267,University of California,"San Diego, CA",USA,INT003,428.6,56789
+IN268,University of California,"San Francisco, CA",USA,INT004,22.3,2954
+IN269,University of California,"Santa Barbara, CA",USA,INT005,7.32,969
+IN270,University of California School of Medicine,"Los Angeles, CA",USA,INT001,3.3,437
+IN271,University of California School of Medicine,"San Francisco, CA",USA,INT002,77.4,10255
+IN272,"University of California, Kavli Institute for Theoretical Physics","Santa Barbara, CA",USA,INT004,428.6,56789
+IN273,University of Cambridge,Cambridge,United Kingdom,INT005,22.3,2954
+IN274,University of Chicago,"Chicago, IL",USA,INT006,7.32,969
+IN275,"University of Chicago, Ben May Laboratory for Cancer Research","Chicago, IL",USA,INT003,7.564,1002
+IN276,University of Colorado,"Boulder, CO",USA,INT001,90,11925
+IN277,"University of Colorado, JILA","Boulder, CO",USA,INT002,4.6,609
+IN278,University of Delaware,NULL,USA,INT003,4.5,596
+IN279,University of Edinburgh,Edinburgh,United Kingdom,INT001,42.4,5618
+IN280,University of Freiburg,Breisgau,Federal Republic of Germany,INT002,90,11925
+IN281,University of Freiburg im Breisgau,Breisgau,Germany,INT003,4.6,609
+IN282,University of Grenoble,Grenoble,France,INT004,4.5,596
+IN283,University of Groningen,Groningen,the Netherlands,INT005,42.4,5618
+IN284,University of Heidelberg,Heidelberg,Federal Republic of Germany,INT006,323.5,42863
+IN285,University of Heidelberg,Heidelberg,Germany,INT001,210.4,27878
+IN286,University of Helsinki,Helsinki,Finland,INT002,32.3,4279
+IN287,University of Illinois,"Urbana, IL",USA,INT003,22.3,2954
+IN288,"University of Jerusalem, Center for RationalityHebrew",Jerusalem,Israel,INT004,3.3,437
+IN289,University of Lisbon,Lisbon,Portugal,INT001,77.4,10255
+IN290,University of Manchester,Manchester,United Kingdom,INT004,428.6,56789
+IN291,"University of Maryland, Department of Economics and School of Public Policy","College Park, MD",USA,INT005,22.3,2954
+IN292,University of Massachusetts Medical School,"Worcester, MA",USA,INT006,7.32,969
+IN293,University of Minnesota,"Minneapolis, MN",USA,INT003,7.564,1002
+IN294,University of Moscow,Moscow,USSR,INT001,90,11925
+IN295,University of North Carolina,"Chapel Hill, NC",USA,INT002,4.6,609
+IN296,"University of Nottingham, School of Physics and Astronomy",Nottingham,United Kingdom,INT003,4.5,596
+IN297,University of Oslo,Oslo,Norway,INT001,42.4,5618
+IN298,University of Oxford,Oxford,United Kingdom,INT002,323.5,42863
+IN299,"University of Oxford, Royal Society",Oxford,United Kingdom,INT003,210.4,27878
+IN300,University of Pennsylvania,"Philadelphia, PA",USA,INT004,32.3,4279
+IN301,University of Rochester,"Rochester, NY",USA,INT001,22.3,2954
+IN302,University of Southern California,"Los Angeles, CA",USA,INT002,5576.3,738859
+IN303,University of Strasbourg,Strasbourg,France,INT003,3.3,437
+IN304,University of Sussex,Brighton,United Kingdom,INT004,77.4,10255
+IN305,University of Texas,"Austin, TX",USA,INT002,428.6,56789
+IN306,University of Texas Medical School at Houston,"Houston, TX",USA,INT004,22.3,2954
+IN307,University of Texas Southwestern Medical Center at Dallas,"Dallas, TX",USA,INT005,3.3,437
+IN308,University of Tokyo,Kashiwa,Japan,INT006,3.3,437
+IN309,University of Tokyo,Tokyo,Japan,INT003,77.4,10255
+IN310,University of Toronto,Toronto,Canada,INT001,428.6,56789
+IN311,University of Tsukuba,Tokyo,Japan,INT002,22.3,2954
+IN312,University of Utah,"Salt Lake City, UT",USA,INT003,7.32,969
+IN313,University of Washington,"Seattle, WA",USA,INT001,3.3,437
+IN314,University of Western Australia,Perth,Australia,INT002,77.4,10255
+IN315,University of Wisconsin,"Madison, WI",USA,INT003,428.6,56789
+IN316,University of Zurich,Zurich,Switzerland,INT004,22.3,2954
+IN317,"University of Zurich, Institute of Experimental Immunology",Zurich,Switzerland,INT005,7.32,969
+IN318,Uppsala University,Uppsala,Sweden,INT006,7.564,1002
+IN319,US Naval Research Laboratory,"Washington, DC",USA,INT001,90,11925
+IN320,Utrecht University,Utrecht,the Netherlands,INT002,4.6,609
+IN321,Vanderbilt University,"Nashville, TN",USA,INT003,4.5,596
+IN322,Vanderbilt University School of Medicine,"Nashville, TN",USA,INT004,42.4,5618
+IN323,Veterans Administration Hospital,"Bronx, NY",USA,INT001,323.5,42863
+IN324,Veterans Administration Hospital,"New Orleans, LA",USA,INT004,210.4,27878
+IN325,Victoria University,Manchester,United Kingdom,INT005,32.3,4279
+IN326,Vienna University,Vienna,Austria,INT006,22.3,2954
+IN327,Virginia Commonwealth University,"Richmond, VA",USA,INT003,3.3,437
+IN328,Würzburg University,Würzburg,Germany,INT001,77.4,10255
+IN329,Walter and Eliza Hall Institute for Medical Research,Melbourne,Australia,INT002,77.4,10255
+IN330,Washington University,"St. Louis, MO",USA,INT003,428.6,56789
+IN331,Weizmann Institute of Science,Rehovot,Israel,INT001,22.3,2954
+IN332,Wellcome Research Laboratories,"Research Triangle Park, NC",USA,INT002,7.32,969
+IN333,Western Reserve University,"Cleveland, OH",USA,INT003,3.3,437
+IN334,World Foundation for AIDS Research and Prevention,Paris,France,INT004,77.4,10255
+IN335,Yale University,"New Haven, CT",USA,INT001,428.6,56789
+IN336,"Yale University, School of Medicine","New Haven, CT",USA,INT002,22.3,2954
+IN337,"Yukawa Institute for Theoretical Physics (YITP), Kyoto University",Kyoto,Japan,INT003,7.32,969
+IN338,Zoologisches Institut der Universität München,Munich,Federal Republic of Germany,INT004,7.564,1002

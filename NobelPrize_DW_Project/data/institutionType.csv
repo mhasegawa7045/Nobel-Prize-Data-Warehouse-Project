@@ -1,0 +1,7 @@
+institution_type_id,institution_type,institution_type_description
+INT001,Educational,involves schools and universities either being private or public
+INT002,Religious,"involves religious groups i.e. Christianity, Judaism, Islam, Hinduism, Buddhism,  and Sikhism"
+INT003,Medicinal,involves hospitals and other health care institutions either being private or public
+INT004,Government,"involves governments that are either monarchy, oligarchy, dictatorship, and democracy"
+INT005,Economic,involves foundations focused on collecting economic data with the idea of providing a good or service that is important to the economy
+INT006,Research,involves establishments that speciaize in advancing scholarly activity through research and experimental development  
