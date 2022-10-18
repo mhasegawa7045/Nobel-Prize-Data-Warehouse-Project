@@ -6,7 +6,7 @@ This was implemented through **Microsoft SQL Server Management Studio**, **Micro
 ### How to Implement Visual Studio Code of ETL Process
 1. Create a new `Integration Services Project` in Visual Studio
 2. Delete original `Package.dtsx` in SSIS Packages
-3. Replace the old package with the `Package.dtsx` in `Nobel-Prize-Data-Warehouse-Project/NobelPrize_DW_Project/code/Package.dtsx`
+3. Replace the old package with the one in `Nobel-Prize-Data-Warehouse-Project/NobelPrize_DW_Project/code/Package.dtsx`
 
 ## Project Members
 - Marie Hasegawa (Project Manager/Leader, SQL Query, Tableau Visualizations)
